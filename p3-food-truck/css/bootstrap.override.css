@@ -5,7 +5,7 @@ body {
  text-align: center;
  background-image: url('../images/truck.png');
  background-repeat: repeat;
- background:gray
+ background:gray;
 }
 
 .container {
