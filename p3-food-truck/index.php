@@ -124,7 +124,7 @@ function showData()
             <table class = "table">
                 <thead>
                 <tr>
-                  <th>Item #</th>
+                  /* <th>Item #</th> */
                   <th>Quantity</th>
                   <th>Name</th>
                   <th>Description</th>
